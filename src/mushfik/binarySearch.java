@@ -28,4 +28,4 @@ public class binarySearch {
         return -1;
     }
 }
-//there is issue in last.solved ..it was while(s<e).. where it should be s<=e
+//there is issue in last.solved .it was while(s<e).where it should be s<=e
